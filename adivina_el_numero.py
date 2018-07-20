@@ -14,7 +14,7 @@ if user_number == number_to_guess:
 else:
     print("Perdiste")
 
-user_number =  int(input("Adivina un numero: "))
+user_number = int(input("Adivina un numero: "))
 
 if user_number == number_to_guess:
     print("Felicitaciones")
